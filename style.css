@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <title>Secip</title>
+    </head>
+
+    <body>
+        Hey there!
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+    <style>
+        
+        body{ 
+            color:pink
+        }
+
+        }
+       .title{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       }
+        .main-img{
+            height: 200px;
+            border-style: solid
+        }
+        p{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 20px;
+        }
+        img{
+            height: 200px;
+        }
+        a{
+            display: block;
+            font-weight:bold;
+            font-size: 25px;
+            color:aliceblue;
+            text-decoration: none;
+            background-color: aqua;
+            
+            padding: 20px;
+            margin-top;:20px;
+            a hover{ 
+                background-color: aliceblue;
+                color: black
+            }
+
+        }
+        
+    </style>
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_b5NWBhRvGBmOcEfd5gWIO45iM6ScHH3yJ8clovmwV7a54QUGf5rwK4A&s" alt="image of taylor swift" class="main=ing">
+    <h1 class="title">Hello</h1>
+    <h1 id="subheading">Hello</h1>
+
+    <h3>Hello</h3>
+    <p>
+        yes or no yes or no 
+    </p>
+    <p>
+        YES PLZ!!!
+    </p>
+    <a href="https://www.taylorswift.com">clik me</a>
+</body>
+<img src="/Users/mirandaliu/Desktop/Website/cat.jpg" alt="Cat image" height="200px">
+<a href="">Learn more</a>
+<a hover
+<div>
+
+</div>
+</html>
